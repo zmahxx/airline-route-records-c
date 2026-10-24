@@ -1,0 +1,13 @@
+# C build output
+*.o
+*.obj
+*.exe
+*.out
+/build/
+
+# Local datasets and generated output
+/data/
+*.csv
+*.log
+.DS_Store
+Thumbs.db
